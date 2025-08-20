@@ -1,0 +1,7 @@
+# ignora build
+dist/
+*.exe
+*.asar
+
+# ignora dipendenze
+node_modules/

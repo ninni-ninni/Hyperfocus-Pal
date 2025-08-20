@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Hyperfocus pal</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <audio id="sound" src="media/sound.mp3" preload="auto"></audio>
+        <div class="appContainer">
+            <div class="header">
+                <h2 class="title">✿ Your Hyperfocus pal ✿</h2>
+            </div>
+            <div class="content">
+                <img src="media/working.gif" class="image" id="workingImage" />
+                <img src="media/pause.gif" class="image hidden" id="pauseImage" />
+                
+            </div>
+            <div class="timerContainer">
+                <p id="workingText" class="text">
+                    Start with the simplest task first: getting started is half the battle!
+                </p>
+                <p id="pauseText" class="text hidden">
+                    Okay, gorgeous, sit up straight and hydrate yourself. Come on!
+                </p>
+                <p class="timer">15:00</p>
+            </div>
+            <div class="buttonContainer">
+                <button id="startButton">Start timer</button>
+                <button id="doneButton" class="hidden">
+                    Restart<img src="media/icons/replay_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg" />
+                </button>
+            </div>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
