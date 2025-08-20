@@ -17,8 +17,7 @@ A cute timer that reminds you to drink water and check your posture while workin
 <img width="334" height="365" alt="Screenshot 2025-08-20 212252 1" src="https://github.com/user-attachments/assets/d66961f8-c858-4147-aaec-ad11b47ec21c" /> <img width="334" height="365" alt="Screenshot 2025-08-20 212252 2" src="https://github.com/user-attachments/assets/62340486-01dc-41c4-9587-e1ad4752b1f3" />
 
 ## 📥 Download
-➡️ Go to the section [Releases](https://github.com/ninni-ninni/HyperfocusPal/releases) to download the last version of **HyperfocusPal**  
-⭐ [Download the last version](https://github.com/ninni-ninni/HyperfocusPal/releases/latest)  
+⭐ Go to the section [Releases](https://github.com/ninni-ninni/Hyperfocus-Pal/releases) to download the last version of **HyperfocusPal**  
 
 ---------------------
 
