@@ -5,3 +5,5 @@ dist/
 
 # ignora dipendenze
 node_modules/
+
+*.psd
